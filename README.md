@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in embedded programming 
 - 🌱 B. Eng in Mechanical Engineering
-- 📫 How to reach me: email at mkepler13@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Han shot first
 
